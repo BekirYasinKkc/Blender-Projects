@@ -18,6 +18,7 @@ Each project folder may include:
 ## 🪓 Current Assets
 
 ### Axe
+### Glass
 
 * Low / Mid poly 3D model
 * Created in Blender
