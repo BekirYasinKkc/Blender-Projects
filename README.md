@@ -17,9 +17,10 @@ Each project folder may include:
 
 ## 🪓 Current Assets
 
-### Axe
+### Axe 
 ### Glass
 
+* The Axe is textured
 * Low / Mid poly 3D model
 * Created in Blender
 * Available formats:
