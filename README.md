@@ -17,9 +17,11 @@ Each project folder may include:
 
 ## 🪓 Current Assets
 
-### Axe 
+### Axe
 ### Glass
+### Treasure Chest
 
+* The texture for the Chest will be coming soon!
 * The Axe is textured
 * Low / Mid poly 3D model
 * Created in Blender
